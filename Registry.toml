@@ -1,0 +1,7 @@
+name = "VPERegistry"
+uuid = "0e949770-8656-11ea-2807-3ba984b36631"
+repo = "https://github.com/Kiruse/VPERegistry.git"
+description = "Package registry for the Vox Populi game engine."
+
+[packages]
+bc95435f-373a-49fe-86c5-1d6f8d4e4aed = { name = "FlixGL", path = "FlixGL" }

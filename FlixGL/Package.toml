@@ -1,0 +1,4 @@
+name = "FlixGL"
+uuid = "bc95435f-373a-49fe-86c5-1d6f8d4e4aed"
+authors = ["Kiruse <neurokiruse@outlook.com>"]
+repo = "https://github.com/Kiruse/FlixGL.jl.git"
