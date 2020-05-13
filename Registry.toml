@@ -5,4 +5,4 @@ description = "Package registry for the Vox Populi game engine."
 
 [packages]
 "bc95435f-373a-49fe-86c5-1d6f8d4e4aed" = { name = "FlixGL", path = "FlixGL" }
-"fe686c58-8c7d-4c68-b6b7-4c2436a44233" = { name = "VPEWorlds", path = "VPEWorlds" }
+"226f73d0-9477-11ea-30d8-19260e09eff5" = { name = "VPECore", path = "VPECore" }
