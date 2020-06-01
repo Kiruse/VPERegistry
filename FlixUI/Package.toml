@@ -1,4 +1,4 @@
 name = "FlixUI"
 uuid = "549ea399-ff4d-4e8d-a639-d3a73b0d6647"
 authors = ["Kiruse <neurokiruse@outlook.com>"]
-repo = "https://github.com/Kiruse/FlixUI.git"
+repo = "https://github.com/Kiruse/FlixUI.jl.git"
