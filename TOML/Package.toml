@@ -1,0 +1,4 @@
+name = "TOML"
+uuid = "191fdcea-f9f2-43e0-b922-d33f71e2abc3"
+authors = ["Kiruse <neurokiruse@outlook.com>"]
+repo = "https://github.com/JuliaLang/TOML.jl.git"
