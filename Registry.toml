@@ -1,5 +1,5 @@
-name = "VPERegistry"
-uuid = "0e949770-8656-11ea-2807-3ba984b36631"
+name = "VPERegistryLocal"
+uuid = "76d15e20-ac82-11ea-2d25-771ae7017780"
 repo = "https://github.com/Kiruse/VPERegistry.git"
 description = "Package registry for the Vox Populi game engine."
 
@@ -7,4 +7,5 @@ description = "Package registry for the Vox Populi game engine."
 "bc95435f-373a-49fe-86c5-1d6f8d4e4aed" = { name = "FlixGL", path = "FlixGL" }
 "549ea399-ff4d-4e8d-a639-d3a73b0d6647" = { name = "FlixUI", path = "FlixUI" }
 "9e064dca-da72-4c7f-9df9-c28c42900063" = { name = "GetSetProp", path = "GetSetProp" }
+"191fdcea-f9f2-43e0-b922-d33f71e2abc3" = { name = "TOML", path = "TOML" }
 "5faf8420-954d-11ea-1ef5-31742fe3d6f6" = { name = "VPECore", path = "VPECore" }
